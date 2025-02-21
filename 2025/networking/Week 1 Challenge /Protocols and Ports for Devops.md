@@ -108,3 +108,32 @@ In a **DevOps pipeline**, the integration of these protocols plays a key role in
 
 By understanding and leveraging these protocols in conjunction with the appropriate port numbers, DevOps engineers can automate, secure, and streamline the deployment and maintenance of applications and infrastructure.
 
+Frequently Protocol	Port Number	Usage in DevOps :
+
+1) HTTP	: 80 -> 	Used in web apps, REST APIs, monitoring tools
+2) HTTPS:	443	-> Secure web communication with TLS/SSL
+3) SSH :	22	-> Remote server access, Git authentication
+4) FTP :	21	-> File transfers, CI/CD pipeline storage
+5) SFTP :	22	-> Secure file transfers over SSH
+6) DNS :	53	-> Resolving domain names, Kubernetes service discovery
+7) SMTP :	25 & 587 ->	Sending emails from CI/CD pipelines
+8) IMAP/POP3 :	143 & 110 ->	Email retrieval in monitoring tools
+9) MySQL	: 3306 ->	Database access for cloud apps
+10) PostgreSQL :	5432 ->	Database access for Kubernetes microservices
+11) Redis	: 6379	-> Caching for high-speed DevOps applications
+12 RabbitMQ :	5672	-> Message queues for event-driven architectures
+13) Elasticsearch	: 9200	-> Log aggregation & search in ELK stack
+14 )Kubernetes API	: 6443	-> Managing K8s clusters 
+15 )Docker API	: 2375 & 2376	-> Container management
+16) NTP	 : 123 ->	Time synchronization in distributed systems
+17 ) VPN (OpenVPN, WireGuard): 1194 & 51820 ->	Secure networking in cloud environments
+
+ **Task Completed!** 🚀  
+
+**GitHub Repository:** [90 Days of DevOps - Networking])  
+https://github.com/Khanduri004/90DaysOfDevOps/edit/Personal-Notes/2025/networking/Week%201%20Challenge%20/Protocols%20and%20Ports%20for%20Devops.md
+
+💡 *Contributions are welcome! Feel free to raise an issue or PR.*  
+
+ **Happy Learning!** 🎉
+
