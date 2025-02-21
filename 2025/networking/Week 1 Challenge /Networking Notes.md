@@ -73,9 +73,9 @@ The **TCP/IP model** is a more practical and widely used model that consists of 
 **Purpose:** OSI is more theoretical, while TCP/IP is practical and aligned with the internet.
 **Layer Mapping:** TCP/IP combines the OSI’s Session, Presentation, and Application layers into one layer.
 
-## 📊 OSI Model (7 Layers) - "Think of it Like a Postal System"  
+## 📊 OSI Model (7 Layers) - "For accessing a website"  
 
-Real-Life Workflow Summary (for accessing a website):
+Real-Life Workflow Summary :
 
 **1)** Your browser sends a request to access www.example.com (Application Layer).
 
