@@ -108,7 +108,7 @@ In a **DevOps pipeline**, the integration of these protocols plays a key role in
 
 By understanding and leveraging these protocols in conjunction with the appropriate port numbers, DevOps engineers can automate, secure, and streamline the deployment and maintenance of applications and infrastructure.
 
-Frequently Protocol	Port Number	Usage in DevOps :
+# Frequently Protocol	Port Number	Usage in DevOps :
 
 1) HTTP	: 80 -> 	Used in web apps, REST APIs, monitoring tools
 2) HTTPS:	443	-> Secure web communication with TLS/SSL
